@@ -1,1 +1,3 @@
-# jammers-hub.github.io
+# Questodle
+
+aka ai generated slopdle 🥀
